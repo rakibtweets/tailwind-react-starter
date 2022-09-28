@@ -5,7 +5,7 @@ Setting up Tailwind CSS in a Create React App project has been done is this repo
 Step 1: Clone this repository
 
 ```sh
-git clonehttps://github.com/rakibtweets/tailwind-react-starter.git
+git clone https://github.com/rakibtweets/tailwind-react-starter.git
 
 ```
 
